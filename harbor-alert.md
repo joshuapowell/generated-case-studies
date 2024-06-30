@@ -20,3 +20,11 @@ My work on Baltimore Water Watch demonstrates your commitment to leveraging tech
 
 ## References
 1. Baltimore Water Watch. (Accessed June 29, 2024). Baltimore Water Watch. https://baltimorewaterwatch.org/
+
+## Prompt
+```As an environmentally focused entrepreneur whose research and development work focuses on water, what does work from my past, such as https://baltimorewaterwatch.org have to do with water?
+```
+## Disclaimer
+The content on this page was dynamically generated using the "Prompt" using [Perplexity.ai](https://www.perplexity.ai/).
+
+The references on this page were dynamically generated using the [Scribbr citation tool](https://www.scribbr.com/citation/generator/).

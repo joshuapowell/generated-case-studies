@@ -7,8 +7,11 @@ A collection of summarized case study information related to my body of work—s
 - [Conservation Tracker](conservation-tracker.md)
 - [Field Doc](field-doc.md)
 - [Foundation for Pennsylvania Watersheds, Grants](fpwgrants.md)
+- [FracTracker Alliance](fractracker.md)
 - [Harbor Alert](harbor-alert.md)
+- [Mine Measure](mine-measure.md)
 - [Stormwater Guide](stormwater-guide.md)
+- [Oil &amp; Gas Threat Map](threat-map.md)
 - [Water Reporter](water-reporter.md)
 
 ## Background

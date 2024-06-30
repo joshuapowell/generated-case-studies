@@ -30,4 +30,9 @@ Citations:
 5. Impact with Water Businesses. (Accessed June 29, 2024). SSWM - Find Tools for Sustainable Sanitation and Water Management! https://sswm.info/perspective/impact-water-businesses
 
 ## Prompt
-As an environmentally focused entrepreneur whose research and development work focuses on water, what does work from my past, such as Izaak Walton League of America's "Clean Water Hub", have to do with water?
+```As an environmentally focused entrepreneur whose research and development work focuses on water, what does work from my past, such as Izaak Walton League of America's "Clean Water Hub", have to do with water?
+```
+## Disclaimer
+The content on this page was dynamically generated using the "Prompt" using [Perplexity.ai](https://www.perplexity.ai/).
+
+The references on this page were dynamically generated using the [Scribbr citation tool](https://www.scribbr.com/citation/generator/).

@@ -31,5 +31,10 @@ This project aligns with my focus on leveraging technology and data to address w
 [5] https://www.linkedin.com/advice/0/how-can-entrepreneurship-development
 
 ## Prompt
-- As an environmentally focused entrepreneur whose research and development work focuses on water, what does work from my past, such as www.fpwgrants.org have to do with water? — Return no quality results
-- As an environmentally focused entrepreneur whose research and development work focuses on water, what does work from my past, such as building a data visualization of the environmental conservation and restoration grants from the Foundation for Pennsylvania Watersheds, have to do with water?
+- ```As an environmentally focused entrepreneur whose research and development work focuses on water, what does work from my past, such as www.fpwgrants.org have to do with water? — Return no quality results```
+- ```As an environmentally focused entrepreneur whose research and development work focuses on water, what does work from my past, such as building a data visualization of the environmental conservation and restoration grants from the Foundation for Pennsylvania Watersheds, have to do with water?```
+
+## Disclaimer
+The content on this page was dynamically generated using the "Prompt" using [Perplexity.ai](https://www.perplexity.ai/).
+
+The references on this page were dynamically generated using the [Scribbr citation tool](https://www.scribbr.com/citation/generator/).

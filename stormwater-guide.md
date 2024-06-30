@@ -27,3 +27,8 @@ My work on Stormwater Guide demonstrates my commitment to addressing water-relat
 
 ## Prompt
 ```As an environmentally focused entrepreneur whose research and development work focuses on water, what does work from my past, such as www.stormwaterguide.org have to do with water?```
+
+## Disclaimer
+The content on this page was dynamically generated using the "Prompt" using [Perplexity.ai](https://www.perplexity.ai/).
+
+The references on this page were dynamically generated using the [Scribbr citation tool](https://www.scribbr.com/citation/generator/).

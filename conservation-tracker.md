@@ -22,3 +22,11 @@ This approach aligns with your other projects like Water Reporter, which you dev
 
 Citations:
 1.  The Downstream Project. (2019, December 5). Water Reporter: Interview with John Dawes - The Downstream Project. https://thedownstreamproject.org/projects/water-reporter-interview-with-john-dawes/
+
+## Prompt
+```As an environmentally focused entrepreneur whose research and development work focuses on water, what does work from my past, such as www.conservationtracker.org have to do with water?
+```
+## Disclaimer
+The content on this page was dynamically generated using the "Prompt" using [Perplexity.ai](https://www.perplexity.ai/).
+
+The references on this page were dynamically generated using the [Scribbr citation tool](https://www.scribbr.com/citation/generator/).

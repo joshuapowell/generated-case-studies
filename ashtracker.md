@@ -22,3 +22,11 @@ My work on Ashtracker demonstrates a commitment to leveraging technology and dat
 3. Ashtracker. (Accessed June 29, 2024). Ashtracker. https://www.ashtracker.org/
 4. Environmental Integrity Project. (Accessed June 29, 2024). https://www.chesapeakecommons.org/partner-stories/ashtracker
 5. The Chisholm Legacy Project. (2024, February 13). AshTracker - The Chisholm Legacy Project. https://thechisholmlegacyproject.org/resource-detail/ashtracker/
+
+## Prompt
+```As an environmentally focused entrepreneur whose research and development work focuses on water, what does work from my past, such as www.ashtracker.org have to do with water?```
+
+## Disclaimer
+The content on this page was dynamically generated using the "Prompt" using [Perplexity.ai](https://www.perplexity.ai/).
+
+The references on this page were dynamically generated using the [Scribbr citation tool](https://www.scribbr.com/citation/generator/).

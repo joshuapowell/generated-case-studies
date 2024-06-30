@@ -22,3 +22,13 @@ Your work on Water Reporter demonstrates a commitment to leveraging technology a
 3. St. Johns Riverkeeper. (2019, August 5). *Water conservation - St. Johns Riverkeeper*. St. Johns Riverkeeper -. https://www.stjohnsriverkeeper.org/take-action/additional-tips/water-conservation/
 4. *How to address the complex issue of water conservation*. (2023, January 10). World Economic Forum. https://www.weforum.org/agenda/2023/01/davos23-how-to-address-the-complex-issue-of-water-conservation/
 5. *Water Reporter Map*. (Accessed June 29, 2024). Upper Colorado River Watershed Group. https://ucrwg.org/water-reporter-map/
+
+## Prompt
+```
+As an environmentally focused designer and engineer whose research and development work focuses on water, what does work from my past, such as www.waterreporter.org have to do with water?
+```
+
+## Disclaimer
+The content on this page was dynamically generated using the "Prompt" using [Perplexity.ai](https://www.perplexity.ai/).
+
+The references on this page were dynamically generated using the [Scribbr citation tool](https://www.scribbr.com/citation/generator/).

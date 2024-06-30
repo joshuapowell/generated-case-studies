@@ -29,3 +29,11 @@ My work on FieldDoc demonstrates a commitment to leveraging technology to addres
 3. What is FieldDoc? | FieldDoc Help Center. (Accessed June 29, 2024). https://help.fielddoc.org/en/articles/2761281-what-is-fielddoc
 4. Chesapeake Bay Innovative Nutrient and Sediment Reduction Grants 2024 Request for proposals. (Accessed June 29, 2024). NFWF. https://www.nfwf.org/programs/chesapeake-bay-stewardship-fund/innovative-nutrient-and-sediment-reduction-grants-0/chesapeake-bay-innovative-nutrient-and-sediment-reduction-grants-2024-request-proposals
 5. FieldDoc User Guide. (Accessed June 29, 2024). https://files.dep.state.pa.us/water/ChesapeakeBayOffice/WIPIII/Newsletter/Documents/2022%20FieldDoc%20User%20Guide%20%287-7-22%29.pdf
+
+## Prompt
+```As an environmentally focused entrepreneur whose research and development work focuses on water, what does work from my past, such as www.fielddoc.org have to do with water?
+```
+## Disclaimer
+The content on this page was dynamically generated using the "Prompt" using [Perplexity.ai](https://www.perplexity.ai/).
+
+The references on this page were dynamically generated using the [Scribbr citation tool](https://www.scribbr.com/citation/generator/).
